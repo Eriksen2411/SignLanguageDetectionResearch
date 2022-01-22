@@ -11,5 +11,6 @@ Dataset used in project:
   * https://www.kaggle.com/danrasband/asl-alphabet-test
   * https://www.kaggle.com/grassknoted/asl-alphabet
 
-Code of the project cannot be published because of course content confidentiality in later semesters.
+Source code of the project cannot be published because of course content confidentiality in later semesters.
+
 
