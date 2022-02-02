@@ -1,4 +1,4 @@
-# Sign-Language-Detection-Research
+# Sign Language Detection Research
 
 This is a Sign Language Detection Project done in module CS3244 Machine Learning National University of Singapore.
 
